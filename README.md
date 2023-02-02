@@ -1,4 +1,4 @@
-## MySQL
+# MySQL
 
 ## Temas
 
@@ -148,7 +148,7 @@ SELECT * FROM fabricante WHERE codigo < 7;
 SELECT * FROM fabricante WHERE nombre = 'Lenovo';
 ```
 
-## Extrae todos los fabricantes de CHINA
+### Extrae todos los fabricantes de CHINA
 
 ```sql
 SELECT * FROM fabricante WHERE nacionalidad = 'China';
